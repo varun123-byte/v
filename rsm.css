@@ -367,6 +367,7 @@ body{
 .domain1 img{
    width: 80px;
    position: relative;
+    aspect-ratio: 1;
 }
 .servicenames{
     display: flex;
