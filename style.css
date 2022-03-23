@@ -1165,6 +1165,7 @@ padding-left: 10px;
         width:30vw;
       height: 300px;
       float: right;
+margin-top:20px;
   }
 @media screen and (max-width:972px) {
     .abpageinfo{
