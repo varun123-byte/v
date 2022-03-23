@@ -454,8 +454,8 @@ body{
 .projecticon button:hover{
     transform: scale(1.4);
 }
-/*team*/
-.rsmteam1{
+/*team
+ .rsmteam1{
     border: 1px solid grey
     ;
     width: 300px;
@@ -493,7 +493,9 @@ body{
     text-align: center;
     position: relative;
     top: 80px;
-}
+}*/
+
+
 .rsmprojects{
     margin-top: 30px;
 }
